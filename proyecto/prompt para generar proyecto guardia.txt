@@ -1,0 +1,54 @@
+**Rol y Contexto:**
+Eres un consultor experto en sistemas de salud pública y tecnología médica (health tech), contratado por el Gobierno de la Provincia del Neuquén. Tu tarea es redactar un **documento de proyecto completo** (entre 8 y 10 páginas) en formato de **propuesta ejecutiva**, dirigido de manera exclusiva y formal al **Sr. Ministro de Salud provincial, Dr. Martín Regueiro**.
+
+**Objetivo Central del Documento:**
+El propósito es presentar, fundamentar y solicitar la aprobación para el desarrollo e implementación del **"Sistema Provincial Integrado de Guardias Médicas y Coordinación de Ambulancias (SIGMA-NQN)"**. La propuesta debe persuadir al Ministro destacando cómo este sistema resolverá la fragmentación actual mediante la **unificación de criterios clínicos y operativos** y la **interoperabilidad técnica centralizada**, colocando al Ministerio como el rector efectivo de la respuesta de emergencias médicas en todo el territorio.
+
+**Instrucciones Específicas de Contenido y Estructura:**
+Sigue esta estructura detallada para el documento:
+
+**1. Portada Oficial:**
+   *   Título: "Propuesta para la Creación del Sistema Provincial Integrado de Guardias Médicas y Coordinación de Ambulancias (SIGMA-NQN)".
+   *   Subtítulo: "Hacia una respuesta unificada, eficiente y equitativa en la Provincia del Neuquén".
+   *   Destinatario: "Sr. Ministro de Salud, Dr. Martín Regueiro".
+   *   Institución: "Ministerio de Salud - Provincia del Neuquén".
+   *   Fecha y versión.
+
+**2. Resumen Ejecutivo (1 página):**
+   *   Síntesis del problema: Fragmentación de sistemas, falta de estándares provinciales, ineficiencia operativa.
+   *   Solución propuesta: Implementación del SIGMA-NQN con un Centro de Coordinación Operativa (CCO) en Neuquén capital.
+   *   Beneficios clave: Unificación de protocolos, interoperabilidad técnica, optimización de recursos, mejora de tiempos de respuesta y gobernanza provincial del sistema.
+   *   Inversión y siguiente paso: Necesidad de una fase de diseño detallado y la constitución de una Unidad Ejecutora.
+
+**3. Introducción y Antecedentes Críticos:**
+   *   Analizar el panorama actual de las guardias médicas y el traslado de pacientes en la provincia.
+   *   Describir la problemática desde tres ángulos: **clínico** (criterios dispares), **operativo** (coordinación deficiente) y **tecnológico** (sistemas aislados).
+   *   Enfatizar los riesgos para la salud de la población y la gestión ministerial.
+
+**4. Propuesta: Sistema SIGMA-NQN:**
+   *   **Visión y Objetivos:** Declarar la visión de un sistema integrado. Objetivo general y 4-5 objetivos específicos medibles.
+   *   **Pilar 1: Unificación de Criterios y Protocolos:** Detallar el desarrollo de estándares provinciales únicos para: Triage (ej.: adaptación del sistema ATP), activación y derivación de ambulancias, y capacitación/certificación de recursos humanos.
+   *   **Pilar 2: Interoperabilidad Técnica Centralizada:** Este es el núcleo técnico. Describir la arquitectura de software propuesta como una **"plataforma de integración"** o **"bus de servicios"** que se conecte, **sin reemplazar**, a los sistemas existentes (historias clínicas digitales hospitalarias, software de flota de ambulancias municipales, sistema 911, etc.). Su función será unificar la información y la visibilidad.
+   *   **Componente Organizativo:** Creación del **Centro de Coordinación Operativa (CCO)** y definición de un modelo de gobernanza con un Comité Rector liderado por el Ministerio.
+
+**5. Plan de Implementación por Fases:**
+   *   **Fase 0 (Inmediata):** Creación de la Unidad Ejecutora y comité técnico.
+   *   **Fase 1 (Piloto, 6-8 meses):** Diseño detallado, desarrollo de la plataforma core y pilotaje en el área metropolitana de Neuquén (integrándose con 1-2 hospitales y el servicio de ambulancias municipal).
+   *   **Fase 2 (Expansión Provincial, 18 meses):** Extensión escalonada a las principales localidades y regionales de salud.
+   *   **Fase 3 (Consolidación y Mejora Continua):** Integración total y adopción de mejoras.
+
+**6. Beneficios Esperados y Métricas de Éxito (KPIs):**
+   *   Listar beneficios en gestión, salud pública y política sanitaria.
+   *   Proponer KPIs concretos (ej.: Tiempo Promedio de Respuesta provincial, porcentaje de eventos con criterio de triage aplicado, nivel de interoperabilidad alcanzado).
+
+**7. Consideraciones Clave (Riesgos y Mitigación):**
+   *   Identificar riesgos principales: resistencia al cambio, desafíos técnicos de integración, sostenibilidad financiera. Proponer una mitigación para cada uno.
+
+**8. Conclusión y Recomendación Estratégica:**
+   *   Reafirmar la alineación del proyecto con los objetivos de rectoría del Ministerio.
+   *   **Solicitud de Acción Concreta:** Recomendar formalmente al Ministro la emisión de una resolución para: a) Crear la Unidad Ejecutora del SIGMA-NQN, y b) Asignar recursos para la **Fase 1 (Diseño y Piloto)**.
+
+**Tono, Estilo y Formato:**
+*   **Tono:** Formal, respetuoso, persuasivo y orientado a la acción. Dirigido a un alto funcionario con conocimientos técnicos (médico).
+*   **Estilo:** Profesional, claro, evitando tecnicismos innecesarios. Los conceptos técnicos complejos (ej.: interoperabilidad) deben explicarse en términos de sus **beneficios operativos y de gestión**.
+*   **Formato:** Documento estructurado, con uso de subtítulos, viñetas y negritas para mejorar la legibilidad. Debe tener una extensión final de entre **8 y 10 páginas**.

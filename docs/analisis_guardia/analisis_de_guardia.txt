@@ -1,0 +1,72 @@
+/* cantidad de pacientes por dia todo un año */
+SELECT COUNT( DISTINCT(idrecepcion)) AS cant,fecha
+FROM gua_monitor
+WHERE YEAR (fecha_busqueda) = 2025
+GROUP BY fecha
+ORDER BY count(idrecepcion) DESC
+
+dia destacado 20251013
+
+/* analisis del dia 20251013 */
+
+/*listado de paceintes registrado ese dia*/
+SELECT * FROM gua_monitor WHERE fecha = '20251013'
+cantidad de pacientes 314
+
+SELECT count(pres) as cant, pres  FROM gua_monitor  WHERE fecha = '20251013' GROUP BY pres
+ausentes				43
+observacion / espera	10
+atendidos				261
+
+/* cantidad de triage */
+SELECT * FROM gua_mov_enf WHERE fecha BETWEEN '2025-10-13 00:00:00' AND '2025-10-13 23:59:00'
+cantidad de triage 314
+
+verde	176
+azul	  9
+amarillo 80
+naranja   5
+rojo	 44
+total	314
+
+/* cantidad de atenciones medicas */
+SELECT * FROM gua_mov_med WHERE fecha BETWEEN '2025-10-13 00:00:00' AND '2025-10-13 23:59:00'
+cantidad de atenciones 437
+
+/* cantidad de atenciones medicas por paciente */
+SELECT
+	count(idrecepguardia) AS cant,
+	idrecepguardia
+FROM
+	gua_mov_med
+WHERE
+	fecha BETWEEN '2025-10-13 00:00:00'
+AND '2025-10-13 23:59:00'
+GROUP BY
+	idrecepguardia
+ORDER BY count(idrecepguardia) DESC
+
+atenciones por pacientes
+atenciones	9				pacientes 1		2 informes 5 mdoficaciones 2 medicos
+atenciones	8				pacientes 2		2 informes 5 modificaciones 5 medicos (este en realidad son 10 anteciones 2 del dia anterior)
+											1 informes 7 modificaciones 2 medicos
+ateciones	7				pacientes 3		1 informe  6 modificaciones 1 medicos
+											1 informe  6 modificaciones 2 medicos
+											2 informes 5 modificaciones 2 medicos
+atenciones	5				pacientes 1		2 informes 3 modificaciones 2 medicos
+atenciones  4				pacientes 4		1 informe  3 modificaciones	1 medicos
+											5 informes 6 modificaciones 4 medicos (este en realidad son 11 anteciones 7 del dia anterior)
+											1 informe  3 modificaciones 1 medico
+											2 informes 2 modificaciones 2 medicos
+
+atenciones	3				pacientes 19
+atenciones	2				pacientes 75
+atenciones	1				pacientes 157
+
+total atenciones el dia 13/10/2025 son 280 atenciones el resto 34 pertenecen al dia anterior 
+
+Max			9
+Media		1.651515152
+min			1
+
+

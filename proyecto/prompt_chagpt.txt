@@ -1,0 +1,55 @@
+Perfecto. Con esto ya tenemos **todas las variables críticas definidas**.
+A continuación te entrego el **PROMPT DEFINITIVO**, listo para **copiar, pegar y usar**, sin necesidad de más ajustes.
+
+---
+
+## a-) Prompt definitivo (versión final – nivel experto)
+
+> **Rol a asumir:**
+> Asumí el rol de un **consultor senior en salud pública provincial, gestión de emergencias sanitarias y modernización del Estado**, con amplia experiencia en **sistemas unificados de guardia y redes de atención de urgencias en provincias argentinas**.
+>
+> **Destinatario y contexto político:**
+> El documento está dirigido al **Ministro de Salud de la Provincia del Neuquén**, en el marco de la **gestión actual del Ministerio**, y debe alinearse con sus lineamientos estratégicos, prioridades sanitarias y capacidad real de decisión.
+>
+> **Objetivo central:**
+> Redactar un **Proyecto Ejecutivo de Sistema Unificado de Guardia Provincial**, orientado a **ordenar, integrar y optimizar** la atención de urgencias y emergencias en toda la Provincia del Neuquén (Patagonia Argentina), garantizando equidad territorial, eficiencia operativa y mejora inmediata de la respuesta sanitaria.
+>
+> **Nombre del sistema:**
+> Proponer un **nombre institucional oficial**, su sigla y denominación completa, coherentes con la identidad del sistema público de salud provincial.
+>
+> **Horizonte temporal:**
+> Corto plazo (0–12 meses), mediante un **modelo ideal con implementación progresiva**, priorizando resultados visibles durante el primer año.
+>
+> **Tipo de documento:**
+> Documento formal de proyecto, con **alto nivel de detalle**, estilo **ejecutivo, técnico y político**, orientado a **toma de decisión ministerial inmediata**.
+>
+> **Lineamientos del modelo:**
+>
+> * Enfoque **tecnológicamente agnóstico**, sin mención de marcas, proveedores o soluciones específicas.
+> * Basado en **lineamientos generales de política sanitaria de la Provincia del Neuquén**.
+> * Diseño **políticamente viable**, enfocado en consensos institucionales, gobernabilidad y capacidad de implementación real.
+>
+> **Contenido mínimo obligatorio:**
+>
+> 1. Introducción y contexto sanitario provincial
+> 2. Diagnóstico sintético del sistema actual de guardias
+> 3. Principales problemas estructurales y operativos
+> 4. Fundamentación política, sanitaria y organizacional del sistema unificado
+> 5. Objetivo general y objetivos específicos
+> 6. Alcance territorial equilibrado (urbano, rural y zonas alejadas)
+> 7. Modelo conceptual del Sistema Unificado de Guardia
+> 8. Esquema de gobernanza (roles, niveles de decisión, coordinación interinstitucional)
+> 9. Componentes operativos y de información (sin especificación tecnológica)
+> 10. Plan de implementación progresiva (0–12 meses), por etapas
+> 11. Indicadores clave de seguimiento y éxito
+> 12. Riesgos institucionales y estrategias de mitigación
+> 13. Impacto esperado (sanitario, organizacional, social y político)
+> 14. Conclusión ejecutiva con **solicitud explícita de decisión política inmediata**
+>
+> **Estilo de redacción:**
+> Lenguaje claro, institucional y persuasivo, con equilibrio entre **visión estratégica**, **realismo político** y **pragmatismo operativo**. Evitar jerga técnica innecesaria.
+>
+> **Extensión orientativa:**
+> Documento equivalente a **8–10 páginas A4**.
+
+
